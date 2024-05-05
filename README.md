@@ -37,6 +37,7 @@
 
 ## 🌐 Socials
 <div align="center">
+  <a href="https://www.dio.me/users/luigi_umbra"> <img src="https://img.shields.io/badge/Meu_perfil_DIO-darkblue" height="34"/></a>
   <a href="https://github.com/luigithiago" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=171515&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="github logo"/></a>
   <a href="https://www.linkedin.com/in/luigithiago/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
